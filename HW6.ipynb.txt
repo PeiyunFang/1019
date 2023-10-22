@@ -3,11 +3,8 @@ Microsoft Windows [版本 10.0.22621.1702]
 
 C:\Users\lr>cd Desktop
 
-C:\Users\lr\Desktop>type con > HW6.ipynb
-1019
-
-C:\Users\lr\Desktop>type con > HW6.ipynb 1019
+C:\Users\lr\Desktop> type con > HW6.ipynb 1019
 系統找不到指定的檔案。
 處理時發生錯誤: 1019。
 
-C:\Users\lr\Desktop>HW6.ipynb
+C:\Users\lr\Desktop>
